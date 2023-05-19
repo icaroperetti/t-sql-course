@@ -1,0 +1,6 @@
+Nm_Cliente,Dt_Nascimento
+Fabrício Lima,1980-01-06
+Luiz Lima,1989-09-22
+Fabiano Amorim,1962-09-27
+Dirceu Resende,1974-05-16
+Rodrigo Ribeiro,1950-01-08

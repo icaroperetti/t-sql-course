@@ -1,0 +1,34 @@
+(5) Funções do SQL Server
+
+Exercícios de Fixação - RESPOSTAS:
+
+(5.1)	Casting and Conversion Functions:
+
+1) B
+2) D
+
+
+(5.2)	Date and Time Functions:
+
+3) A
+4) E
+
+
+(5.3)	Mathematical Functions:
+
+5) A
+6) C
+
+
+(5.4)	NULL Functions:
+
+7) A
+
+
+(5.5)	String Functions:
+
+8) E
+9) B
+10) B
+11) F
+12) F

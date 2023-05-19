@@ -1,0 +1,37 @@
+(7) Programação T-SQL
+
+Exercícios de Fixação - RESPOSTAS:
+
+
+(7.1) COMENTÁRIOS / NOCOUNT / ANSI_NULLS / QUOTED_IDENTIFIER
+
+1) V
+2) V
+3) F
+4) V
+
+
+
+(7.2) IDENTITY / SEQUENCE / COLUNAS CALCULADAS
+
+1) A
+2) F
+3) V
+4) C
+5) EXPLICAR QUERY
+6) A
+7) F
+8) V
+
+
+
+(7.3) TRY ... CATCH / DYNAMIC SQL
+
+1) F
+2) V
+3) F
+4) V
+5) V
+6) V
+7) EXPLICAR QUERY
+8) EXPLICAR QUERY

@@ -1,0 +1,46 @@
+(4) Estrutura de uma Query
+
+Exercícios de Fixação - RESPOSTAS:
+
+-- (4.1) Executando uma Query – Passo a Passo
+1) D
+2) C
+3) A
+4) ESCREVER QUERY
+5) ESCREVER QUERY
+6) F
+7) A
+8) C
+9) EXPLICAR A QUERY
+10) C
+11) EXPLICAR A QUERY
+
+
+-- (4.2) JOINs – Unindo tabelas
+1) D
+2) B
+3) F
+4) ESCREVER QUERY
+5) F
+6) V
+7) EXPLICAR A QUERY
+8) F
+
+
+-- (4.3) UNION / DISTINCT / TOP
+1) A
+2) EXPLICAR A QUERY
+3) EXPLICAR A QUERY
+4) B
+5) A
+6) D
+
+
+-- (4.4) SUBQUERY, EXISTS, CTE, APPLY, LIKE, PIVOT, LINKED SERVER
+1) A
+2) B
+3) C
+4) E
+5) EXPLICAR A QUERY
+6) A
+7) C
